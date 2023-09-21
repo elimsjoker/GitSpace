@@ -21,4 +21,4 @@
  atguigu!!hello git!!
  atguigu!!hello git!!
  2222222222 master test
- 6666666o6
+ 66666666 hot-commit -fix
